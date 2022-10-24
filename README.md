@@ -1,2 +1,2 @@
 # BddAutomationTestingProject
-//Simple, Automation Test Project using Java, Maven, Selenium WebDriver, Cucumber
+//Simple, Automation Test Project using Java, Gherkin, Maven, Selenium WebDriver, Cucumber
